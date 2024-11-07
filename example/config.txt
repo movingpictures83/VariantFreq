@@ -1,0 +1,2 @@
+Prefix plugins/VariantFreq/example/
+Plugin VariantFreq inputfile VariantGraph.rds outputfile none
